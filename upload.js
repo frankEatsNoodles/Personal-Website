@@ -1,4 +1,4 @@
-const apiUrl = "https://desktop-ojk12ss.tailb5236b.ts.net/print";
+const apiUrl = "https://desktop-elqncor.tailb5236b.ts.net/print";
 
 let currentIdempotencyKey = null;
 
